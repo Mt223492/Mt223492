@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, an <a href="[https://www.linkedin.com/in/michael-tripp-81923213b]">IT Professional</a>☺</h1>
+<h1>Hi, I'm Michael, an <a href="[https://www.linkedin.com/in/michael-tripp-81923213b]">IT Professional</a></h1>
 
 <h2>Information Technology Projects:</h2>
 
